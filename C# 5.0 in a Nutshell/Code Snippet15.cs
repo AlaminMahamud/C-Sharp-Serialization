@@ -1,0 +1,3 @@
+[DataContract, KnownType (typeof (Student)), KnownType (typeof (Teacher))]
+public class Person
+...

@@ -1,0 +1,8 @@
+// Code Snippets
+
+<Person z:Type="SerialTest.Person" 
+		z:Assembly="SerialTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+>
+...
+</Person>
+
