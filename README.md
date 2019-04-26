@@ -1,2 +1,3 @@
-# C-Sharp-Serialization
-seriaization techniques in c-sharp
+# C# Serialization
+
+Serialization Examples in C#
